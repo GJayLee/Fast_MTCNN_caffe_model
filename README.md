@@ -10,6 +10,9 @@
 
 该项目包含了Fast MTCNN使用的caffe model
 
+## Author
+	Jack Yu
+
 ## 参考
 
 *  [MTCNN with all platforms](https://github.com/imistyrain/MTCNN)
