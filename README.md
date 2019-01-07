@@ -6,12 +6,9 @@
 
 ![](https://i.imgur.com/FbglxoX.jpg)
 
-## OpenCV版 C++
+## Fast MTCNN caffe model
 
-将本项目中的Fast-MTCNN设为启动项，安装opencv3.3及以上版本（3.2及以下版本需自行编译dnn库）
-
-添加对应的头文件路径和库文件路径
-
+该项目包含了Fast MTCNN使用的caffe model
 
 ## 参考
 
